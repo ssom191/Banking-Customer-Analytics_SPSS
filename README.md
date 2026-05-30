@@ -66,7 +66,7 @@ The analysis identified **five distinct customer segments**, each exhibiting uni
 
 ### Customer Segments
 
-![Customer Segments](visuals/customer_segments.png)
+![Customer Segments](customer_segments.png)
 
 #### Budget-Conscious Youth
 
