@@ -155,10 +155,6 @@ Variables included:
 * Number of Transactions
 * Age
 
-### Churn Model Overview
-
-![Churn Model](visuals/churn_model_overview.png)
-
 ### Key Findings
 
 The analysis showed that customers who owned multiple banking products were generally less likely to churn.
@@ -193,13 +189,6 @@ Implement personalized communication and loyalty programs to strengthen customer
 ### Customer Lifecycle Management
 
 Use customer segmentation and churn predictions together to proactively target customers at risk of leaving.
-
----
-### Estimated Business Impact
-
-![Estimated Business Impact](visuals/business_impact.png)
-
-The analysis demonstrated how predictive analytics can support marketing investment decisions and customer retention strategies by identifying high-value intervention opportunities.
 
 ---
 
