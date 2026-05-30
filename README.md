@@ -8,8 +8,8 @@ Understanding customers is at the heart of an effective banking strategy.
 
 This project explores two related business questions within a retail banking environment:
 
-**1. How can customers be segmented into meaningful groups for targeted marketing and product strategies?
-2. Which factors influence customer engagement and churn, and how can retention be improved?**
+**1. How can customers be segmented into meaningful groups for targeted marketing and product strategies?**
+**2. Which factors influence customer engagement and churn, and how can retention be improved?**
 
 Using a combination of clustering techniques, statistical testing, and predictive modelling, this project develops a customer analytics framework that moves from understanding customer segments to identifying retention opportunities.
 
